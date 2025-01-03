@@ -1,6 +1,4 @@
-local AuthLua = (load or loadstring)(game:HttpGet("https://raw.githubusercontent.com/NewWhitelistService/function/refs/heads/main/function2.lua"))()
-if AuthLua:Authenticate("Raves.lol") then
---[[
+
 
 
 ██╗░░░░░███████╗░█████╗░██╗░░██╗███████╗██████╗░  ██████╗░██╗░░░██╗
