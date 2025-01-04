@@ -1041,7 +1041,7 @@ end)
 end
 
 local HitStyleThing = "Coom"
-local crosshair = loadstring(game:HttpGet("https://pastebin.com/raw/9x1TSjAK"))()
+local crosshair = loadstring(game:HttpGet("https://raw.githubusercontent.com/Shhflow/Sigma-boy/refs/heads/main/trigga_updated_final.txt"))()
 local NEINIGGANEINEI
 local WOAHHH
 do
