@@ -1,7 +1,7 @@
 --[[
 
     ///////////////////////////////
-    //  © 2022 - 2024 Affinity   //
+    //  © 2022 - 2024 Raves.lol   //
     //    All rights reserved    //
     ///////////////////////////////
     // This material may not be  //
@@ -11,7 +11,7 @@
     // written permission of the //
     //   the copyright holder.   //
     ///////////////////////////////
-    // Affinity by SKIBIDI--GYAT //
+    // Raves.lol by Shhflow //
     ///////////////////////////////
 
 ]]--
@@ -2725,7 +2725,7 @@ end))
 local library = loadstring(game:HttpGet("https://pastebin.com/raw/KECRX73j"))(); -- creds to portal
 
 do
-    local window = library:Window({Name = [[Affinity <font color="rgb(255,255,255)">.lua</font>]], Size = Vector2.new(450,450)});
+    local window = library:Window({Name = [[Raves <font color="rgb(255,255,255)">.lol</font>]], Size = Vector2.new(450,450)});
 local ScreenGui = Instance.new("ScreenGui")
 ScreenGui.Parent = game:GetService("CoreGui")
 ScreenGui.ResetOnSpawn = false
